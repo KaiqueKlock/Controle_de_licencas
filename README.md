@@ -493,14 +493,14 @@ JavaScript
 
 O sistema atualmente suporta:
 
-✔ dashboards por unidade
-✔ análise de licenças de sistemas e infraestrutura
-✔ detecção de inatividade de usuários
-✔ estimativa de custo de licenças inativas
-✔ exportação CSV
-✔ exportação PDF
-✔ drill-down clicável por licença
-✔ empacotamento ZIP para distribuição
+* ✔ dashboards por unidade
+* ✔ análise de licenças de sistemas e infraestrutura
+* ✔ detecção de inatividade de usuários
+* ✔ estimativa de custo de licenças inativas
+* ✔ exportação CSV
+* ✔ exportação PDF
+* ✔ drill-down clicável por licença
+* ✔ empacotamento ZIP para distribuição
 
 ---
 
